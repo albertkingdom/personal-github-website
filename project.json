@@ -1,0 +1,20 @@
+[
+    {
+        "title": "台股持股損益表",
+        "intro": "使用vue框架渲染畫面，模仿股票app，讓使用者紀錄下單歷史和庫存，並即時爬取收盤價，計算每日損益",
+        "link": "https://codepen.io/albertkingdom/pen/oNbMNOd",
+        "img": "./photo/project-stock-app.png"
+    },
+    {
+        "title": "新冠肺炎資訊看板",
+        "intro": "使用react框架渲染畫面，呈現出每日全球新冠肺炎確診人數相關資訊，並提供chart.js製作圖表呈現歷史變化",
+        "link": "https://albertkingdom.github.io/covid19info/",
+        "img": "./photo/covid19dashboard.png"
+    },
+    {
+        "title": "Tandem小型遊戲電商平台",
+        "intro": "參加資策會課程專題作品，為一個販售遊戲的電商平台的商品頁面，運用React框架渲染畫面，結合後端Node.js存取database資料",
+        "link": "#",
+        "img": "./photo/product_list.png"
+    }
+]
